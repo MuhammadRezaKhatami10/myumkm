@@ -10,7 +10,7 @@
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="<?php echo base_url()?>assets/img/about/1.jpg" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4 class="subheading">Usaha Mikro Kecil Menengah Kabupaten Jepara</h4>
+                                <h4 class="subheading">Usaha Mikro Kecil Menengah</h4>
                             </div>
                             <div class="timeline-body"><p class="text-muted"><i>Usaha Mikro Kecil Menengah</i> merupakan istilah umum dalam ekonomi yang merujuk kepada usaha ekonomi produktif yang dimiliki perorangan maupun badan usaha sesuai dengan kriteria yang ditetapkan oleh UU No.20 tahun 2008</p></div>
                         </div>

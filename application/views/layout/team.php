@@ -36,7 +36,10 @@
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    
+                </div>
+                <div class="row">
+<div class="col-lg-3">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="<?php echo base_url()?>assets/img/team/2.jpg" alt="" />
                             <h4>Alfin</h4>

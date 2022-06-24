@@ -13,7 +13,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Kategori</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Berikut beberapa kategori yang tersedia</h3>
                 </div>
                 <div class="row text-center">
                     <div class="col-md-3">
@@ -23,7 +23,7 @@
                             <i class="fas fa-box fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Produk Barang</h4></a>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted">Beberapa Produk dalam bentuk barang</p>
                     </div>
                     <div class="col-md-3">
                         <a href="<?= site_url()?>/home#kategori" class="text-dark">
@@ -32,7 +32,7 @@
                             <i class="fas fa-tshirt fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Fashion</h4></a>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted">Beberapa produk fashion dengan model terbaru</p>
                     </div>
                     <div class="col-md-3">
                         <a href="<?= site_url()?>/home#kategori" class="text-dark">
@@ -41,7 +41,7 @@
                             <i class="fas fa-utensils fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Makanan</h4></a>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted">Beberapa produk makanan yang memikat selera</p>
                     </div>
                     <div class="col-md-3">
                         <a href="<?= site_url()?>/home#kategori" class="text-dark">
@@ -50,7 +50,7 @@
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Teknologi</h4></a>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted">Beberapa produk dalam bidang teknologi</p>
                     </div>
                 </div>
             </div>
